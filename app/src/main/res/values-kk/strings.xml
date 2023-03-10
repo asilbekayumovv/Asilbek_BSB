@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="next">әрі қарай</string>
+    <string name="permission">Рұқсат</string>
+    <string name="text_permission">Келісім туралы келісім – бұл медициналық зерттеуге, клиникалық сынаққа, процедураға немесе қызметке қатысушының хабардар етілген келісімін белгілейтін қол қойылған құжат. Сіз телемедициналық тәжірибені, медициналық клиниканы жүргізесіз бе немесе әрекетке қатысушылардан бас тартуды жинау қажет пе, сіз біздің тегін келісім үлгілерін пайдаланып, жіберілген пішіндерді қол қойылған PDF келісім келісімдеріне бірден айналдыра аласыз! Қағазсыз құжаттамаға көшу және электронды қолтаңбалар мен ақпараттандырылған келісімді онлайн режимінде үздіксіз алу арқылы сіз бір уақытта жазбаларды реттей аласыз, қолмен жасалатын қадамдарды азайтып, жұмыс процесін жеңілдете аласыз.</string>
+    <string name="agreement">Келісім</string>
+    <string name="login">Кіру</string>
+    <string name="order_food_nto_your_door">Есікке дейін \nтамаққа тапсырыс беріңіз</string>
+    <string name="sign_in">Кіру үшін</string>
+    <string name="password">Құпия сөз</string>
+    <string name="email_address">Электронды адрес</string>
+    <string name="don_t_have_an_account_yet">Әлі тіркелгіңіз жоқ па?</string>
+    <string name="name">Аты</string>
+    <string name="sign_up">Тіркелу</string>
+    <string name="don_you_have_an_account_yet">Сізде аккаунт бар ма?</string>
+    <string name="create_account">Аккаунты құру</string>
+    <string name="phone_number">Телефон нөмірі</string>
+    <string name="create_pin_code">PIN кодын жасаңыз</string>
+    <string name="save">Сақтау</string>
+    <string name="enter_pin_code">PIN кодын енгізіңіз</string>
+    <string name="welcome">қош келдіңіз</string>
+    <string name="search">Іздеу</string>
+    <string name="choose_category">Санатты таңдаңыз</string>
+    <string name="price">Бағасы:</string>
+    <string name="recommended">Ұсынылады</string>
+    <string name="grams"> грамм / </string>
+    <string name="calories"> калории</string>
+    <string name="km_from_you">сізден км</string>
+    <string name="add_to_card">Себетке қосу</string>
+    <string name="next_order">Жалғастыру</string>
+    <string name="go_back">Қайту</string>
+    <string name="total">Кайту:</string>
+    <string name="extended">ұзартылған</string>
+    <string name="clear">Таза</string>
+
+    <string name="my_order">Менің тапсырысым</string>
+    <string name="payment">Төлем</string>
+
+    <string name="thank_you">Рақмет сізге!</string>
+    <string name="your_food_is_on_the_way">Тамағың жолда</string>
+</resources>
